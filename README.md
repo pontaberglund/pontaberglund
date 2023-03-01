@@ -8,7 +8,7 @@
 - <b>School Projects</b>
   - [Instrument rental service using Java and SQL](https://github.com/pontaberglund/IV1351)  
   - [Snake on chipKit Uno32](https://github.com/Cactooz/Snake)
-  - [Natural Deducation Proof checker](https://github.com/Cactooz/AdInfinitumProlog)
+  - [Natural Deduction Proof checker](https://github.com/Cactooz/AdInfinitumProlog)
 - <b>Puzzle solutions</b>
   - [Advent of Code 2022](https://github.com/pontaberglund/Advent-Of-Code-2022) 
 
