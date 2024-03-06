@@ -2,17 +2,17 @@
 
 <h2>Projects:</h2>
 
+- <b>React JS projects</b>
+  - [Star Wars wiki](https://github.com/Cactooz/StarWarsWiki)
+  - [reShuffle](https://github.com/Cactooz/reShuffle)
+  - [Tic Tac Toe](https://github.com/pontaberglund/React-Tic-Tac-Toe)
 - <b>React Native</b>
   - [Golf Scorecard App](https://github.com/pontaberglund/GolfScorecardApp)
-- <b>Java GUI Projects</b>
+- <b>Java projects</b>
   - [Snake](https://github.com/pontaberglund/Snake)
-  - [Calculator](https://github.com/pontaberglund/Calculator)
 - <b>School Projects</b>
-  - [Instrument rental service using Java and SQL](https://github.com/pontaberglund/IV1351)  
+  - [CultureGO](https://github.com/team-charlie-dev/CultureGO)
   - [Snake on chipKit Uno32](https://github.com/Cactooz/Snake)
-  - [Natural Deduction Proof checker](https://github.com/Cactooz/AdInfinitumProlog)
-- <b>Puzzle solutions</b>
-  - [Advent of Code 2022](https://github.com/pontaberglund/Advent-Of-Code-2022) 
-
+    
 <h2>Contact me:</h2>
 <a href="https://www.linkedin.com/in/pontus-berglund02/">LinkedIn</a>
