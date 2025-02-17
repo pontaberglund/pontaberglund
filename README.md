@@ -16,3 +16,4 @@
     
 <h2>Contact me:</h2>
 <a href="https://www.linkedin.com/in/pontus-berglund02/">LinkedIn</a>
+<a href="https://www.pontaberglund.se/">Portfolio</a>
